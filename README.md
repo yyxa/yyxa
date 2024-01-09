@@ -1,19 +1,16 @@
 ```cpp
 int main (int argc, char *argv[]) {
-  bool alive = 1;
-
   while(alive) {
     try{make_new(achievements);}
     catch(const exception& e) {cerr << e.what() << "\n";}
     work();
     eat();
     sleep(0);
-  }
-}
+}}
 
 auto achievements = {
 {🥉, "Hackathon on cyberimmune development 2.0 from Kaspersky"},
-{finalist, "Hackathon MORE-Tech 5.0", }};
+{finalist, "Hackathon MORE-Tech 5.0",}};
 ```
 <!--
 **d33fur/d33fur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
