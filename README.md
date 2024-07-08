@@ -21,18 +21,6 @@
         \::/    /                \::/    /                \::/    /        \::/    /         ~~                      
          \/____/                  \/____/                  \/____/          \/____/                                  
                                                                                                                           
-        Welcome to my GitHub profile.
 ```
 
-
-🥉 - Hackathon on cyberimmune development 2.0 from Kaspersky
-
-finalist - Hackathon MORE-Tech 5.0
-
-## <div align="center">GitHub Stats</div>
-<div align="center">GitHub Stats</div>
-<div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d33fur&hide_border=true&layout=compact&theme=merko" />
-    <img src="https://github-readme-stats.vercel.app/api?username=d33fur&show_icons=true&count_private=true&hide_border=true&theme=merko" />
-</div>
-<br/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=d33fur&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=FFF&bg_color=0,87CEFA,B2D8D8,E0FFFF,87CEEB&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d33fur&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=FFF&bg_color=0,87CEFA,B2D8D8,E0FFFF,87CEEB&theme=graywhite" />
